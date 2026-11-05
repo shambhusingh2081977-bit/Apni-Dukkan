@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.BuiltToStock" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#059669</item>
+    </style>
+</resources>

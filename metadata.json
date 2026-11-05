@@ -1,0 +1,6 @@
+{
+  "name": "Built To Stock",
+  "description": "Professional mobile POS, shop inventory, billing, expenses, and profit & loss management for shopkeepers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
